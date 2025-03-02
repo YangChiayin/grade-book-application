@@ -1,5 +1,5 @@
 # ChiayinYanping_InClass3
-<img src="https://github.com/user-attachments/assets/efeed2fa-e88e-487d-915e-8c407437cc09" width="500" />
+<img src="https://github.com/user-attachments/assets/efeed2fa-e88e-487d-915e-8c407437cc09" width="800" />
 
 
 ## Overview
